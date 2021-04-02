@@ -6,6 +6,8 @@
 
 A HTML, CSS, and Bootstrap based website with focus on learning Bootstrap components to make the website look modern.
 
+I have taken what I have learned the UpgradedWebsiteFromScratch_HTML-CSS and FirstWebsiteFromScratch-HTML repositories to build a well-desinged website that follows good web developement coding practices.
+
 ### Built With
 
 - HTML
